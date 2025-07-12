@@ -1,16 +1,26 @@
-# location_tracker_flutter
+# Location Tracker
 
-A new Flutter project.
+# 🚗 Flutter GPS Mileage Tracker App
 
-## Getting Started
+A lightweight mileage tracking app built with Flutter. It uses GPS to track user movement and calculates total distance traveled with Google Maps integration.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Google Maps integration
+- Real-time location tracking
+- Route visualization using Polylines
+- Distance/mileage calculation (KM)
+- MVVM Clean Architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](assets/screenshot.png) *(Insert your UI snapshot here)*
+
+## 🔧 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/mbiplobe/location_tracker_flutter.git
+cd flutter_gps_mileage_tracker
+
+
