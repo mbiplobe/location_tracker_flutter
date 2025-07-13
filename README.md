@@ -7,6 +7,7 @@ A lightweight mileage tracking app built with Flutter. It uses GPS to track user
 ## ✨ Features
 
 - Google Maps integration
+- GPS location tracking
 - Real-time location tracking
 - Route visualization using Polylines
 - Distance/mileage calculation (KM)
